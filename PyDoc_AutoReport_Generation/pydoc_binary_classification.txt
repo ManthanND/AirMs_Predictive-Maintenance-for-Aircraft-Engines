@@ -1,0 +1,908 @@
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+
+Best Parameters:
+ LogisticRegression(random_state=123)
+-----------------------------------------------------------
+Logistic Regression B
+
+Confusion Matrix:
+[[73  2]
+ [11 14]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.97      0.92        75
+           1       0.88      0.56      0.68        25
+
+    accuracy                           0.87       100
+   macro avg       0.87      0.77      0.80       100
+weighted avg       0.87      0.87      0.86       100
+
+
+Metrics:
+           Logistic Regression B
+Accuracy                0.870000
+Precision               0.875000
+Recall                  0.560000
+F1 Score                0.682927
+ROC AUC                 0.982933
+
+ROC Thresholds:
+
+   Threshold  TP  FP  TN  FN   TPR       FPR       TNR       FNR   Que
+0   1.994121   0  25  75   0  0.00  0.000000  1.000000  0.750000  0.00
+1   0.994121   1  24  75   0  0.04  0.000000  1.000000  0.757576  0.01
+2   0.653169  13  12  75   0  0.52  0.000000  1.000000  0.862069  0.13
+3   0.582797  13  12  73   2  0.52  0.026667  0.973333  0.858824  0.15
+4   0.215574  22   3  73   2  0.88  0.026667  0.973333  0.960526  0.24
+5   0.150252  22   3  71   4  0.88  0.053333  0.946667  0.959459  0.26
+6   0.122151  24   1  71   4  0.96  0.053333  0.946667  0.986111  0.28
+7   0.077939  24   1  69   6  0.96  0.080000  0.920000  0.985714  0.30
+8   0.061730  25   0  69   6  1.00  0.080000  0.920000  1.000000  0.31
+9   0.000002  25   0   0  75  1.00  1.000000  0.000000       NaN  1.00
+
+Precision-Recall Thresholds:
+
+    Threshold  Precision  Recall   Que
+0    0.061730   0.806452    1.00  0.31
+1    0.077939   0.800000    0.96  0.30
+2    0.107109   0.827586    0.96  0.29
+3    0.122151   0.857143    0.96  0.28
+4    0.134517   0.851852    0.92  0.27
+5    0.150252   0.846154    0.88  0.26
+6    0.206271   0.880000    0.88  0.25
+7    0.215574   0.916667    0.88  0.24
+8    0.234640   0.913043    0.84  0.23
+9    0.261930   0.909091    0.80  0.22
+10   0.321254   0.904762    0.76  0.21
+11   0.375059   0.900000    0.72  0.20
+12   0.390986   0.894737    0.68  0.19
+13   0.445244   0.888889    0.64  0.18
+14   0.460373   0.882353    0.60  0.17
+15   0.559835   0.875000    0.56  0.16
+16   0.582797   0.866667    0.52  0.15
+17   0.613538   0.928571    0.52  0.14
+18   0.653169   1.000000    0.52  0.13
+19   0.773563   1.000000    0.48  0.12
+20   0.846904   1.000000    0.44  0.11
+21   0.936675   1.000000    0.40  0.10
+22   0.949222   1.000000    0.36  0.09
+23   0.949426   1.000000    0.32  0.08
+24   0.971247   1.000000    0.28  0.07
+25   0.971550   1.000000    0.24  0.06
+26   0.975789   1.000000    0.20  0.05
+27   0.982971   1.000000    0.16  0.04
+28   0.987950   1.000000    0.12  0.03
+29   0.991815   1.000000    0.08  0.02
+30   0.994121   1.000000    0.04  0.01
+31   1.000000   1.000000    0.00  0.00
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+C:\Users\admin\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\linear_model\_logistic.py:764: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+
+Best Parameters:
+ LogisticRegression(C=10, random_state=123)
+-----------------------------------------------------------
+Logistic Regression A
+
+Confusion Matrix:
+[[75  0]
+ [ 8 17]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95        75
+           1       1.00      0.68      0.81        25
+
+    accuracy                           0.92       100
+   macro avg       0.95      0.84      0.88       100
+weighted avg       0.93      0.92      0.91       100
+
+
+Metrics:
+           Logistic Regression A
+Accuracy                0.920000
+Precision               1.000000
+Recall                  0.680000
+F1 Score                0.809524
+ROC AUC                 0.981867
+
+ROC Thresholds:
+
+    Threshold  TP  FP  TN  FN   TPR       FPR       TNR       FNR   Que
+0    1.994083   0  25  75   0  0.00  0.000000  1.000000  0.750000  0.00
+1    0.994083   1  24  75   0  0.04  0.000000  1.000000  0.757576  0.01
+2    0.619434  17   8  75   0  0.68  0.000000  1.000000  0.903614  0.17
+3    0.439944  17   8  74   1  0.68  0.013333  0.986667  0.902439  0.18
+4    0.360920  19   6  74   1  0.76  0.013333  0.986667  0.925000  0.20
+5    0.226759  19   6  73   2  0.76  0.026667  0.973333  0.924051  0.21
+6    0.187227  21   4  73   2  0.84  0.026667  0.973333  0.948052  0.23
+7    0.145012  21   4  72   3  0.84  0.040000  0.960000  0.947368  0.24
+8    0.137448  22   3  72   3  0.88  0.040000  0.960000  0.960000  0.25
+9    0.123294  22   3  70   5  0.88  0.066667  0.933333  0.958904  0.27
+10   0.063363  24   1  70   5  0.96  0.066667  0.933333  0.985915  0.29
+11   0.014173  24   1  60  15  0.96  0.200000  0.800000  0.983607  0.39
+12   0.013615  25   0  60  15  1.00  0.200000  0.800000  1.000000  0.40
+13   0.000001  25   0   0  75  1.00  1.000000  0.000000       NaN  1.00
+
+Precision-Recall Thresholds:
+
+    Threshold  Precision  Recall   Que
+0    0.013615   0.625000    1.00  0.40
+1    0.014173   0.615385    0.96  0.39
+2    0.022327   0.631579    0.96  0.38
+3    0.022368   0.648649    0.96  0.37
+4    0.023173   0.666667    0.96  0.36
+5    0.027070   0.685714    0.96  0.35
+6    0.029486   0.705882    0.96  0.34
+7    0.033707   0.727273    0.96  0.33
+8    0.039441   0.750000    0.96  0.32
+9    0.045600   0.774194    0.96  0.31
+10   0.049218   0.800000    0.96  0.30
+11   0.063363   0.827586    0.96  0.29
+12   0.089860   0.821429    0.92  0.28
+13   0.123294   0.814815    0.88  0.27
+14   0.123839   0.846154    0.88  0.26
+15   0.137448   0.880000    0.88  0.25
+16   0.145012   0.875000    0.84  0.24
+17   0.187227   0.913043    0.84  0.23
+18   0.199101   0.909091    0.80  0.22
+19   0.226759   0.904762    0.76  0.21
+20   0.360920   0.950000    0.76  0.20
+21   0.372327   0.947368    0.72  0.19
+22   0.439944   0.944444    0.68  0.18
+23   0.619434   1.000000    0.68  0.17
+24   0.658684   1.000000    0.64  0.16
+25   0.697004   1.000000    0.60  0.15
+26   0.819957   1.000000    0.56  0.14
+27   0.866195   1.000000    0.52  0.13
+28   0.895935   1.000000    0.48  0.12
+29   0.922109   1.000000    0.44  0.11
+30   0.938810   1.000000    0.40  0.10
+31   0.944095   1.000000    0.36  0.09
+32   0.952392   1.000000    0.32  0.08
+33   0.973405   1.000000    0.28  0.07
+34   0.981829   1.000000    0.24  0.06
+35   0.985426   1.000000    0.20  0.05
+36   0.986652   1.000000    0.16  0.04
+37   0.987337   1.000000    0.12  0.03
+38   0.993684   1.000000    0.08  0.02
+39   0.994083   1.000000    0.04  0.01
+40   1.000000   1.000000    0.00  0.00
+
+Best Parameters:
+ DecisionTreeClassifier(criterion='entropy', max_depth=5, random_state=123)
+-----------------------------------------------------------
+Decision Tree B
+
+Confusion Matrix:
+[[74  1]
+ [11 14]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.99      0.93        75
+           1       0.93      0.56      0.70        25
+
+    accuracy                           0.88       100
+   macro avg       0.90      0.77      0.81       100
+weighted avg       0.89      0.88      0.87       100
+
+
+Metrics:
+           Decision Tree B
+Accuracy          0.880000
+Precision         0.933333
+Recall            0.560000
+F1 Score          0.700000
+ROC AUC           0.945067
+
+ROC Thresholds:
+
+    Threshold  TP  FP  TN  FN   TPR       FPR       TNR       FNR   Que
+0    2.000000   0  25  75   0  0.00  0.000000  1.000000  0.750000  0.00
+1    1.000000   7  18  75   0  0.28  0.000000  1.000000  0.806452  0.07
+2    0.938119   9  16  75   0  0.36  0.000000  1.000000  0.824176  0.09
+3    0.745455  12  13  75   0  0.48  0.000000  1.000000  0.852273  0.12
+4    0.735849  14  10  74   1  0.56  0.013333  0.986667  0.880952  0.15
+5    0.494424  15  10  73   2  0.60  0.026667  0.973333  0.879518  0.17
+6    0.401408  18   7  72   3  0.72  0.040000  0.960000  0.911392  0.21
+7    0.308917  19   6  71   4  0.76  0.053333  0.946667  0.922078  0.23
+8    0.301435  19   6  70   5  0.76  0.066667  0.933333  0.921053  0.24
+9    0.119481  20   5  69   6  0.80  0.080000  0.920000  0.932432  0.26
+10   0.082857  21   4  67   8  0.84  0.106667  0.893333  0.943662  0.29
+11   0.058140  21   4  65  10  0.84  0.133333  0.866667  0.942029  0.31
+12   0.029869  22   3  60  15  0.88  0.200000  0.800000  0.952381  0.37
+13   0.012270  23   2  59  16  0.92  0.213333  0.786667  0.967213  0.39
+14   0.005747  25   0  42  32  1.00  0.440000  0.567568  1.000000  0.58
+15   0.000000  25   0   0  75  1.00  1.000000  0.000000       NaN  1.00
+
+Precision-Recall Thresholds:
+
+    Threshold  Precision  Recall   Que
+0    0.005747   0.431034    1.00  0.58
+1    0.012270   0.589744    0.92  0.39
+2    0.029869   0.594595    0.88  0.37
+3    0.058140   0.677419    0.84  0.31
+4    0.082857   0.724138    0.84  0.29
+5    0.119481   0.769231    0.80  0.26
+6    0.301435   0.791667    0.76  0.24
+7    0.308917   0.826087    0.76  0.23
+8    0.401408   0.857143    0.72  0.21
+9    0.494424   0.882353    0.60  0.17
+10   0.735849   0.933333    0.56  0.15
+11   0.745455   1.000000    0.48  0.12
+12   0.785714   1.000000    0.44  0.11
+13   0.846575   1.000000    0.40  0.10
+14   0.938119   1.000000    0.36  0.09
+15   1.000000   1.000000    0.28  0.07
+16   1.000000   1.000000    0.00  0.07
+
+Best Parameters:
+ DecisionTreeClassifier(criterion='entropy', max_depth=4, random_state=123)
+-----------------------------------------------------------
+Decision Tree A
+
+Confusion Matrix:
+[[74  1]
+ [ 7 18]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.99      0.95        75
+           1       0.95      0.72      0.82        25
+
+    accuracy                           0.92       100
+   macro avg       0.93      0.85      0.88       100
+weighted avg       0.92      0.92      0.92       100
+
+
+Metrics:
+           Decision Tree A
+Accuracy          0.920000
+Precision         0.947368
+Recall            0.720000
+F1 Score          0.818182
+ROC AUC           0.962933
+
+ROC Thresholds:
+
+   Threshold  TP  FP  TN  FN   TPR       FPR       TNR       FNR   Que
+0   2.000000   0  25  75   0  0.00  0.000000  1.000000  0.750000  0.00
+1   1.000000  10  15  75   0  0.40  0.000000  1.000000  0.833333  0.10
+2   0.921053  11  14  75   0  0.44  0.000000  1.000000  0.842697  0.11
+3   0.848392  17   8  74   1  0.68  0.013333  0.986667  0.902439  0.18
+4   0.467980  19   6  74   1  0.76  0.013333  0.986667  0.925000  0.20
+5   0.214286  20   5  69   6  0.80  0.080000  0.920000  0.932432  0.26
+6   0.180978  22   3  67   8  0.88  0.106667  0.893333  0.957143  0.30
+7   0.023369  24   1  55  19  0.96  0.253333  0.743243  0.982143  0.43
+8   0.017341  25   0  54  21  1.00  0.280000  0.720000  1.000000  0.46
+9   0.000000  25   0   0  75  1.00  1.000000  0.000000       NaN  1.00
+
+Precision-Recall Thresholds:
+
+   Threshold  Precision  Recall   Que
+0   0.017341   0.543478    1.00  0.46
+1   0.023369   0.558140    0.96  0.43
+2   0.180978   0.733333    0.88  0.30
+3   0.214286   0.769231    0.80  0.26
+4   0.467980   0.950000    0.76  0.20
+5   0.519231   0.947368    0.72  0.19
+6   0.848392   0.944444    0.68  0.18
+7   0.921053   1.000000    0.44  0.11
+8   1.000000   1.000000    0.40  0.10
+9   1.000000   1.000000    0.00  0.10
+
+Best Parameters:
+ RandomForestClassifier(criterion='entropy', max_depth=8, n_estimators=50,
+                       random_state=123)
+-----------------------------------------------------------
+Random Forest B
+
+Confusion Matrix:
+[[74  1]
+ [ 8 17]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94        75
+           1       0.94      0.68      0.79        25
+
+    accuracy                           0.91       100
+   macro avg       0.92      0.83      0.87       100
+weighted avg       0.91      0.91      0.90       100
+
+
+Metrics:
+           Random Forest B
+Accuracy          0.910000
+Precision         0.944444
+Recall            0.680000
+F1 Score          0.790698
+ROC AUC           0.980267
+
+ROC Thresholds:
+
+    Threshold  TP  FP  TN  FN   TPR       FPR       TNR       FNR   Que
+0    1.997997   0  25  75   0  0.00  0.000000  1.000000  0.750000  0.00
+1    0.997997   1  24  75   0  0.04  0.000000  1.000000  0.757576  0.01
+2    0.539413  17   8  75   0  0.68  0.000000  1.000000  0.903614  0.17
+3    0.457616  17   8  73   2  0.68  0.026667  0.973333  0.901235  0.19
+4    0.389736  19   6  73   2  0.76  0.026667  0.973333  0.924051  0.21
+5    0.310327  19   6  72   3  0.76  0.040000  0.960000  0.923077  0.22
+6    0.293571  20   5  72   3  0.80  0.040000  0.960000  0.935065  0.23
+7    0.286744  20   5  71   4  0.80  0.053333  0.946667  0.934211  0.24
+8    0.266486  22   3  71   4  0.88  0.053333  0.946667  0.959459  0.26
+9    0.185176  22   3  69   6  0.88  0.080000  0.920000  0.958333  0.28
+10   0.169040  23   2  69   6  0.92  0.080000  0.920000  0.971831  0.29
+11   0.114082  23   2  67   8  0.92  0.106667  0.893333  0.971014  0.31
+12   0.097536  25   0  67   8  1.00  0.106667  0.893333  1.000000  0.33
+13   0.000036  25   0  17  58  1.00  0.773333  0.226667  1.000000  0.83
+14   0.000006  25   0  13  62  1.00  0.826667  0.173333  1.000000  0.87
+15   0.000000  25   0   0  75  1.00  1.000000  0.000000       NaN  1.00
+
+Precision-Recall Thresholds:
+
+    Threshold  Precision  Recall   Que
+0    0.097536   0.757576    1.00  0.33
+1    0.103372   0.750000    0.96  0.32
+2    0.114082   0.741935    0.92  0.31
+3    0.133810   0.766667    0.92  0.30
+4    0.169040   0.793103    0.92  0.29
+5    0.185176   0.785714    0.88  0.28
+6    0.255534   0.814815    0.88  0.27
+7    0.266486   0.846154    0.88  0.26
+8    0.269982   0.840000    0.84  0.25
+9    0.286744   0.833333    0.80  0.24
+10   0.293571   0.869565    0.80  0.23
+11   0.310327   0.863636    0.76  0.22
+12   0.389736   0.904762    0.76  0.21
+13   0.443158   0.900000    0.72  0.20
+14   0.457616   0.894737    0.68  0.19
+15   0.536011   0.944444    0.68  0.18
+16   0.539413   1.000000    0.68  0.17
+17   0.696675   1.000000    0.64  0.16
+18   0.700466   1.000000    0.60  0.15
+19   0.710887   1.000000    0.56  0.14
+20   0.724204   1.000000    0.52  0.13
+21   0.761578   1.000000    0.48  0.12
+22   0.839295   1.000000    0.44  0.11
+23   0.860522   1.000000    0.40  0.10
+24   0.897623   1.000000    0.36  0.09
+25   0.950687   1.000000    0.32  0.08
+26   0.956080   1.000000    0.28  0.07
+27   0.968449   1.000000    0.24  0.06
+28   0.980342   1.000000    0.20  0.05
+29   0.993279   1.000000    0.16  0.04
+30   0.995270   1.000000    0.12  0.03
+31   0.995522   1.000000    0.08  0.02
+32   0.997997   1.000000    0.04  0.01
+33   1.000000   1.000000    0.00  0.00
+
+Best Parameters:
+ RandomForestClassifier(criterion='entropy', max_depth=6, n_estimators=50,
+                       random_state=123)
+-----------------------------------------------------------
+Random Forest A
+
+Confusion Matrix:
+[[74  1]
+ [ 8 17]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94        75
+           1       0.94      0.68      0.79        25
+
+    accuracy                           0.91       100
+   macro avg       0.92      0.83      0.87       100
+weighted avg       0.91      0.91      0.90       100
+
+
+Metrics:
+           Random Forest A
+Accuracy          0.910000
+Precision         0.944444
+Recall            0.680000
+F1 Score          0.790698
+ROC AUC           0.982400
+
+ROC Thresholds:
+
+    Threshold  TP  FP  TN  FN   TPR       FPR       TNR       FNR   Que
+0    1.999685   0  25  75   0  0.00  0.000000  1.000000  0.750000  0.00
+1    0.999685   1  24  75   0  0.04  0.000000  1.000000  0.757576  0.01
+2    0.821252  14  10  75   0  0.56  0.000000  1.000000  0.882353  0.14
+3    0.817421  14  10  74   1  0.56  0.013333  0.986667  0.880952  0.15
+4    0.372589  19   6  74   1  0.76  0.013333  0.986667  0.925000  0.20
+5    0.297494  19   6  73   2  0.76  0.026667  0.973333  0.924051  0.21
+6    0.273362  20   5  73   2  0.80  0.026667  0.973333  0.935897  0.22
+7    0.233364  20   5  72   3  0.80  0.040000  0.960000  0.935065  0.23
+8    0.179746  23   2  72   3  0.92  0.040000  0.960000  0.972973  0.26
+9    0.134304  23   2  68   7  0.92  0.093333  0.906667  0.971429  0.30
+10   0.120868  24   1  68   7  0.96  0.093333  0.906667  0.985507  0.31
+11   0.088965  24   1  65  10  0.96  0.133333  0.866667  0.984848  0.34
+12   0.059616  25   0  65  10  1.00  0.133333  0.866667  1.000000  0.35
+13   0.000027  25   0  20  55  1.00  0.733333  0.266667  1.000000  0.80
+14   0.000007  25   0  18  57  1.00  0.760000  0.240000  1.000000  0.82
+15   0.000000  25   0   0  75  1.00  1.000000  0.000000       NaN  1.00
+
+Precision-Recall Thresholds:
+
+    Threshold  Precision  Recall   Que
+0    0.059616   0.714286    1.00  0.35
+1    0.088965   0.705882    0.96  0.34
+2    0.098381   0.727273    0.96  0.33
+3    0.106894   0.750000    0.96  0.32
+4    0.120868   0.774194    0.96  0.31
+5    0.134304   0.766667    0.92  0.30
+6    0.141552   0.793103    0.92  0.29
+7    0.150994   0.821429    0.92  0.28
+8    0.171547   0.851852    0.92  0.27
+9    0.179746   0.884615    0.92  0.26
+10   0.191352   0.880000    0.88  0.25
+11   0.191449   0.875000    0.84  0.24
+12   0.233364   0.869565    0.80  0.23
+13   0.273362   0.909091    0.80  0.22
+14   0.297494   0.904762    0.76  0.21
+15   0.372589   0.950000    0.76  0.20
+16   0.391062   0.947368    0.72  0.19
+17   0.603777   0.944444    0.68  0.18
+18   0.812644   0.941176    0.64  0.17
+19   0.812659   0.937500    0.60  0.16
+20   0.817421   0.933333    0.56  0.15
+21   0.821252   1.000000    0.56  0.14
+22   0.863012   1.000000    0.52  0.13
+23   0.865170   1.000000    0.48  0.12
+24   0.923756   1.000000    0.44  0.11
+25   0.931994   1.000000    0.40  0.10
+26   0.933901   1.000000    0.36  0.09
+27   0.935078   1.000000    0.32  0.08
+28   0.941204   1.000000    0.28  0.07
+29   0.967639   1.000000    0.24  0.06
+30   0.986364   1.000000    0.20  0.05
+31   0.987275   1.000000    0.16  0.04
+32   0.991869   1.000000    0.12  0.03
+33   0.998586   1.000000    0.08  0.02
+34   0.999685   1.000000    0.04  0.01
+35   1.000000   1.000000    0.00  0.00
+
+
+NAME
+    model_selection_binary_classifiaction(running) - Model Selection - Binary Classifiaction(running).ipynb
+
+DESCRIPTION
+    Automatically generated by Colaboratory.
+
+    Original file is located at
+        https://colab.research.google.com/drive/1JvaItrbMH1SXke2YG_UjiHg6H3d2tSlF
+
+FUNCTIONS
+    bin_class_metrics(model, y_test, y_pred, y_score, print_out=True, plot_out=True)
+        Calculate main binary classifcation metrics, plot AUC ROC and Precision-Recall curves.
+
+        Args:
+            model (str): The model name identifier
+            y_test (series): Contains the test label values
+            y_pred (series): Contains the predicted values
+            y_score (series): Contains the predicted scores
+            print_out (bool): Print the classification metrics and thresholds values
+            plot_out (bool): Plot AUC ROC, Precision-Recall, and Threshold curves
+
+        Returns:
+            dataframe: The combined metrics in single dataframe
+            dataframe: ROC thresholds
+            dataframe: Precision-Recall thresholds
+            Plot: AUC ROC
+            plot: Precision-Recall
+            plot: Precision-Recall threshold; also show the number of engines predicted for maintenace per period (queue).
+            plot: TPR-FPR threshold
+
+    bin_classify(model, clf, features, params=None, score=None)
+        Perfor Grid Search hyper parameter tuning on a classifier.
+
+        Args:
+            model (str): The model name identifier
+            clf (clssifier object): The classifier to be tuned
+            features (list): The set of input features names
+            params (dict): Grid Search parameters
+            score (str): Grid Search score
+
+        Returns:
+            Tuned Clssifier object
+            dataframe of model predictions and scores
+
+DATA
+    FNc = -200
+    FPc = -100
+    TNb = 0
+    TPb = 300
+    ax1 = <AxesSubplot:title={'center':'AUC ROC'}, xlabel='False Positive ...
+    ax2 = <AxesSubplot:title={'center':'Precision Recall Curve'}, xlabel='...
+    clf_dtra = DecisionTreeClassifier(criterion='entropy', max_depth=4, ra...
+    clf_dtrb = DecisionTreeClassifier(criterion='entropy', max_depth=5, ra...
+    clf_lgra = LogisticRegression(C=10, random_state=123)
+    clf_lgrb = LogisticRegression(random_state=123)
+    clf_rfca = RandomForestClassifier(criterion='entropy', max_...tors=50,...
+    clf_rfcb = RandomForestClassifier(criterion='entropy', max_...tors=50,...
+    colnames = ['Profit', 'Model', 'Que', 'Threshold', 'TP', 'FP', 'TN', '...
+    df =        Threshold   TPR       FPR   Que  TP  FP  ... 75  0.000000 ...
+    df_max =    Threshold   TPR       FPR   Que  TP  FP  TN  ...  4  0.946...
+    df_max_profit =        Profit                  Model   Que  Thre...5  ...
+    df_test =      id  cycle  setting1  setting2  setting3    ...20       ...
+    df_train =         id  cycle  setting1  setting2  setting3 ...        ...
+    features_extr = ['setting1', 'setting2', 'setting3', 's1', 's2', 's3',...
+    features_orig = ['setting1', 'setting2', 'setting3', 's1', 's2', 's3',...
+    fig = <Figure size 1000x500 with 2 Axes>
+    gs_params = {}
+    gs_score = 'roc_auc'
+    metrics_bn =            Logistic Regression B  Logistic Regre...   0.9...
+    metrics_dtr =            Decision Tree B  Decision Tree A
+    Accu...18182...
+    metrics_dtra =            Decision Tree A
+    Accuracy          0.9...core...
+    metrics_dtrb =            Decision Tree B
+    Accuracy          0.8...core...
+    metrics_lgr =            Logistic Regression B  Logistic Regre...C    ...
+    metrics_lgra =            Logistic Regression A
+    Accuracy       ...    ...
+    metrics_lgrb =            Logistic Regression B
+    Accuracy       ...    ...
+    metrics_rfc =            Random Forest B  Random Forest A
+    Accu...90698...
+    metrics_rfca =            Random Forest A
+    Accuracy          0.9...core...
+    metrics_rfcb =            Random Forest B
+    Accuracy          0.9...core...
+    F1...
+    model = 'Gaussian NB A'
+    prc_dtra =    Threshold  Precision  Recall   Que
+    0   0.0173... 0.40  0...
+    prc_dtrb =     Threshold  Precision  Recall   Que
+    0    0.00...0.28  0....
+    prc_lgra =     Threshold  Precision  Recall   Que
+    0    0.01...0.04  0....
+    prc_lgrb =     Threshold  Precision  Recall   Que
+    0    0.06...0.04  0....
+    prc_rfca =     Threshold  Precision  Recall   Que
+    0    0.05...0.04  0....
+    prc_rfcb =     Threshold  Precision  Recall   Que
+    0    0.09...0.04  0....
+    pred_dtra =     y_pred   y_score
+    0        0  0.000000
+    1     ...0000
+    99...
+    pred_dtrb =     y_pred   y_score
+    0        0  0.000000
+    1     ...0000
+    99...
+    pred_lgra =     y_pred   y_score
+    0        0  0.000029
+    1     ...0006
+    99...
+    pred_lgrb =     y_pred   y_score
+    0        0  0.000153
+    1     ...0021
+    99...
+    pred_rfca =     y_pred   y_score
+    0        0  0.000000
+    1     ...0000
+    99...
+    pred_rfcb =     y_pred   y_score
+    0        0  0.000038
+    1     ...0000
+    99...
+    roc_dfs = [   Threshold   TPR       FPR   Que  TP  FP  TN  ...00000   ...
+    roc_dtra =    Threshold   TPR       FPR   Que  TP  FP  TN  ...5  0.000...
+    roc_dtrb =     Threshold   TPR       FPR   Que  TP  FP  TN ...5  0.000...
+    roc_lgra =     Threshold   TPR       FPR   Que  TP  FP  TN ...00000   ...
+    roc_lgrb =    Threshold   TPR       FPR   Que  TP  FP  TN  ...00000   ...
+    roc_rfca =     Threshold   TPR       FPR   Que  TP  FP  TN ...5  0.000...
+    roc_rfcb =     Threshold   TPR       FPR   Que  TP  FP  TN ...5  0.000...
+    y_test = 0     0
+    1     0
+    2     0
+    3     0
+    4     0
+         ..
+    ...9    1
+    Nam...
+    y_train = 0        0
+    1        0
+    2        0
+    3        0
+    4   ...   1
+    Name...
+
+FILE
+    c:\3d_reconstruction\model_selection_binary_classifiaction(running).py
